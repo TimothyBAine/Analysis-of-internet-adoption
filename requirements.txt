@@ -1,0 +1,8 @@
+pandas 2.2.0
+numpy 1.26.3
+bs4 4.12.3
+selenium 4.17.2
+webdriver_manager 4.0.1
+seaborn 0.13.2
+plotly 5.18.0
+os
